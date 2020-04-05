@@ -1,4 +1,8 @@
 {
+      "food: 
+
+[
+    {
       "id": 1,
       "barcode" : "5051379043735",
       "brand": "FRESH & EASY",
@@ -8,6 +12,8 @@
       "ingredients": ["WATER", "SUGAR", "TOMATO PASTE", "MOLASSES", "DISTILLED VINEGAR", "CORN STARCH", "SALT", "DRIED CHIPOTLE PEPPER", "NATURAL SMOKE FLAVOR", "MUSTARD FLOUR", "DRIED GARLIC", "DRIED ONION", "SPICES"],
       "updated": "2018-04-26",
       "category": "Ketchup, Mustard, BBQ & Cheese Sauce",
+      "allowed": ["celiac","vegan","eggs","peanuts"],
+      "notAllowed": ["mustard","corn"],
       "imageURL": ""
     },
     {
@@ -20,6 +26,7 @@
         "ingredients": ["SUGAR", "DISTILLED VINEGAR", "HONEY", "MUSTARD FLOUR", "WATER", "SOYBEAN OIL", "SALT"],
         "updated": "28/05/2018",
         "category": "Ketchup, Mustard, BBQ & Cheese Sauce",
+        "allowed": ["celiac","vegan","eggs","peanuts"],
         "imageURL": ""
       },
       {
@@ -32,6 +39,7 @@
       "ingredients": ["DISTILLED VINEGAR", "LOUISIANA HOT PEPPERS", "TABASCO PEPPERS", "SALT", "XANTHAN GUM"],
       "updated": "14/07/2017",
       "category": "Ketchup, Mustard, BBQ & Cheese Sauce",
+      "allowed": ["celiac","vegan","eggs","peanuts","soy"],
       "imageURL": ""
     },
     {
@@ -44,6 +52,7 @@
       "ingredients": ["Wheat flour", "Sugar", "Vegetable Fat", "Concentrated Raspberry Juice (6%)", "Corn Starch", "Dates","Soy Lecithin","Maltodextrin","Citric Acid","baking soda E500","Forest Berry Concentrate","Salt","Flavoring"],
       "updated": "22/03/2020",
       "category": "Packaged Cookies",
+      "allowed": ["eggs", "dairy","vegan","peanuts","soy"],
       "imageURL": "https://osemcat.signature-it.com//images/Fittings/osem-hq/Upload_Pictures/Prod_Pic/12355406/Custom/12355406_7290111564741_L.png"
     },
     {
@@ -56,6 +65,7 @@
       "ingredients": ["DISTILLED VINEGAR", "LOUISIANA HOT PEPPERS", "TABASCO PEPPERS", "SALT", "XANTHAN GUM"],
       "updated": "14/07/2017",
       "category": "Ketchup, Mustard, BBQ & Cheese Sauce",
+      "allowed": ["celiac","vegan","eggs","peanuts","soy"],
       "imageURL": ""
     },
     {
@@ -68,6 +78,7 @@
       "ingredients": ["Wheat flour", "Sugar", "Vegetable Fat", "Concentrated Strawberry Juice (6%)", "Corn Starch", "Dates","Soy Lecithin","Maltodextrin","Citric Acid","baking soda E500","Forest Berry Concentrate","Salt","Flavoring"],
       "updated": "22/03/2020",
       "category": "Packaged Cookies",
+      "allowed": ["eggs", "dairy","vegan","peanuts","soy"],
       "imageURL": "https://osemcat.signature-it.com//images/Fittings/osem-hq/Upload_Pictures/Prod_Pic/6909297/Custom/6909297_7290008775823_L.png"
     },
     {
@@ -80,5 +91,9 @@
       "ingredients": ["Wheat flour", "Sugar", "Vegetable Fat", "Chocolate", "Corn Starch", "Dates","Soy Lecithin","Maltodextrin","Citric Acid","baking soda E500","Forest Berry Concentrate","Salt","Flavoring"],
       "updated": "22/03/2020",
       "category": "Packaged Cookies",
+      "allowed": ["eggs", "dairy","vegan","peanuts","soy"],
       "imageURL": "https://osemcat.signature-it.com//images/Fittings/osem-hq/Upload_Pictures/Prod_Pic/6909306/Custom/6909306_7290008775816_L.png"
     }
+]
+
+}
