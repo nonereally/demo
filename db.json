@@ -1,14 +1,84 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+      "id": 1,
+      "barcode" : "5051379043735",
+      "brand": "FRESH & EASY",
+      "item": "Chipotle Barbecue Sauce",
+      "size": "37",
+      "sizeType":  "gm",
+      "ingredients": ["WATER", "SUGAR", "TOMATO PASTE", "MOLASSES", "DISTILLED VINEGAR", "CORN STARCH", "SALT", "DRIED CHIPOTLE PEPPER", "NATURAL SMOKE FLAVOR", "MUSTARD FLOUR", "DRIED GARLIC", "DRIED ONION", "SPICES"],
+      "updated": "2018-04-26",
+      "category": "Ketchup, Mustard, BBQ & Cheese Sauce",
+      "imageURL": ""
+    },
+    {
+        "id": 8,
+        "barcode" : "41497120116",
+        "brand": "Weis Markets, Inc.",
+        "item": "GOURMET HONEY MUSTARD",
+        "size": "6.2",
+        "sizeType": "gm",
+        "ingredients": ["SUGAR", "DISTILLED VINEGAR", "HONEY", "MUSTARD FLOUR", "WATER", "SOYBEAN OIL", "SALT"],
+        "updated": "28/05/2018",
+        "category": "Ketchup, Mustard, BBQ & Cheese Sauce",
+        "imageURL": ""
+      },
+      {
+      "id": 3,
+      "barcode" : "41331038591",
+      "brand": "Goya Foods, Inc.",
+      "item": "GOYA HOT SAUCE SALSA PICANTE",
+      "size": "5",
+      "sizeType": "gm",
+      "ingredients": ["DISTILLED VINEGAR", "LOUISIANA HOT PEPPERS", "TABASCO PEPPERS", "SALT", "XANTHAN GUM"],
+      "updated": "14/07/2017",
+      "category": "Ketchup, Mustard, BBQ & Cheese Sauce",
+      "imageURL": ""
+    },
+    {
+      "id": 4,
+      "barcode" : "7290111564741",
+      "brand": "Osem, Inc.",
+      "item": "Raspberry filled cookies",
+      "size": "300",
+      "sizeType": "gm",
+      "ingredients": ["Wheat flour", "Sugar", "Vegetable Fat", "Concentrated Raspberry Juice (6%)", "Corn Starch", "Dates","Soy Lecithin","Maltodextrin","Citric Acid","baking soda E500","Forest Berry Concentrate","Salt","Flavoring"],
+      "updated": "22/03/2020",
+      "category": "Packaged Cookies",
+      "imageURL": "https://osemcat.signature-it.com//images/Fittings/osem-hq/Upload_Pictures/Prod_Pic/12355406/Custom/12355406_7290111564741_L.png"
+    },
+    {
+      "id": 5,
+      "barcode" : "11111",
+      "brand": "Blabla foods, Inc.",
+      "item": "Mayo",
+      "size": "5",
+      "sizeType": "gm",
+      "ingredients": ["DISTILLED VINEGAR", "LOUISIANA HOT PEPPERS", "TABASCO PEPPERS", "SALT", "XANTHAN GUM"],
+      "updated": "14/07/2017",
+      "category": "Ketchup, Mustard, BBQ & Cheese Sauce",
+      "imageURL": ""
+    },
+    {
+      "id": 6,
+      "barcode" : "7290008775823",
+      "brand": "Osem, Inc.",
+      "item": "Straberry filled cookies",
+      "size": "300",
+      "sizeType": "gm",
+      "ingredients": ["Wheat flour", "Sugar", "Vegetable Fat", "Concentrated Strawberry Juice (6%)", "Corn Starch", "Dates","Soy Lecithin","Maltodextrin","Citric Acid","baking soda E500","Forest Berry Concentrate","Salt","Flavoring"],
+      "updated": "22/03/2020",
+      "category": "Packaged Cookies",
+      "imageURL": "https://osemcat.signature-it.com//images/Fittings/osem-hq/Upload_Pictures/Prod_Pic/6909297/Custom/6909297_7290008775823_L.png"
+    },
+    {
+      "id": 7,
+      "barcode" : "1121212121",
+      "brand": "Osem, Inc.",
+      "item": "Chocolate filled cookies",
+      "size": "300",
+      "sizeType": "gm",
+      "ingredients": ["Wheat flour", "Sugar", "Vegetable Fat", "Chocolate", "Corn Starch", "Dates","Soy Lecithin","Maltodextrin","Citric Acid","baking soda E500","Forest Berry Concentrate","Salt","Flavoring"],
+      "updated": "22/03/2020",
+      "category": "Packaged Cookies",
+      "imageURL": "https://osemcat.signature-it.com//images/Fittings/osem-hq/Upload_Pictures/Prod_Pic/6909306/Custom/6909306_7290008775816_L.png"
+    }
