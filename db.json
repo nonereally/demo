@@ -1,5 +1,5 @@
 { "food": 
-
+[
                 {
                   "id": 1,
                   "barcode" : "5051379043735",
@@ -92,5 +92,5 @@
                   "allowed": ["eggs", "dairy","vegan","peanuts","soy"],
                   "imageURL": "https://osemcat.signature-it.com//images/Fittings/osem-hq/Upload_Pictures/Prod_Pic/6909306/Custom/6909306_7290008775816_L.png"
                 }
-
+]
 }
